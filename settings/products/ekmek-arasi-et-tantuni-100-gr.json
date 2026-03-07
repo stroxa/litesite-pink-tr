@@ -1,0 +1,24 @@
+{
+  "id": "t3",
+  "name": "Ekmek Arası Et Tantuni (100 gr.)",
+  "url": "ekmek-arasi-et-tantuni-100-gr",
+  "images": ["ekmek-arasi-et-tantuni-100-gr.jpg"],
+  "price": 400,
+  "weight": { "value": 100, "unit": "g" },
+  "category": { "name": "Tantuniler", "url": "tantuniler" },
+  "shortDesc": "Geleneksel Mersin usulü et tantuni 100 gr dana eti ile hazırlanır ve Ekmek arasında sunulur. Sumaklı soğan, taze maydanoz ve küp domates ile tamamlanır. Klasik ve doyurucu bir tantuni lezzeti.",
+  "metaDesc": "100 gr et tantuni; sumaklı soğan, maydanoz ve küp domates ile Ekmek arasında servis edilir.",
+  "keywords": "et tantuni, ekmek arası tantuni, Mersin tantuni, dana tantuni, geleneksel tantuni",
+  "longDesc": [
+    "100 gr dana eti ile hazırlanır.",
+    "Sumaklı soğan, maydanoz ve küp domates ile servis edilir.",
+    "Ekmek arası servis edilir",
+    "Dana eti ince kıyılarak sacda pişirilir.",
+    "Baget ekmek arasında hazırlanır.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "100 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

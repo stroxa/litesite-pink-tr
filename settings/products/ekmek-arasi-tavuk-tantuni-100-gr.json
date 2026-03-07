@@ -1,0 +1,24 @@
+{
+  "id": "t1",
+  "name": "Ekmek Arası Tavuk Tantuni (100 gr.)",
+  "url": "ekmek-arasi-tavuk-tantuni-100-gr",
+  "images": ["ekmek-arasi-tavuk-tantuni-100-gr.jpg"],
+  "price": 250,
+  "weight": { "value": 100, "unit": "g" },
+  "category": { "name": "Tantuniler", "url": "tantuniler" },
+  "shortDesc": "Mersin usulü tavuk tantuni 100 gr olarak hazırlanır. Sumaklı soğan, taze maydanoz ve küp domates ile Ekmeğin arasında sunulur. Doyurucu ve pratik bir tantuni seçeneğidir.",
+  "metaDesc": "100 gr tavuk tantuni; sumaklı soğan, maydanoz ve küp domates ile Ekmek arasında servis edilir.",
+  "keywords": "tavuk tantuni, ekmek arası tantuni, Mersin tantuni, ekmek tantuni, sokak lezzetleri",
+  "longDesc": [
+    "100 gr tavuk tantuni kullanılır.",
+    "Sumaklı soğan, maydanoz ve domates eklenir.",
+    "Ekmek ile servis edilir.",
+    "Tavuk eti ince doğranarak tavada pişirilir.",
+    "Baharatlarla harmanlanır.",
+    "Ekmek arasına alınarak sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "100 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

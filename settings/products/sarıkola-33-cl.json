@@ -1,0 +1,22 @@
+{
+  "id": "i4",
+  "name": "Sarı Kola (33 cl)",
+  "url": "sarıkola-33-cl",
+  "images": ["sarıkola-33-cl.jpg"],
+  "price": 79.99,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Limon aromalı, kafeinsiz sarı kola. Soğuk servis edilir ve sade içim tercih edenler için uygundur.",
+  "metaDesc": "33 cl kutu sarı kola, limon aromalı gazlı içecek, paketli ürün.",
+  "keywords": "sarı kola, limonlu gazoz, kutu içecek, meşrubat, kafeinsiz",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Limon aromalı.",
+    "Kafeinsiz gazlı içecek.",
+    "Soğuk servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

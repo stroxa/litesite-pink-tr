@@ -1,0 +1,22 @@
+{
+  "id": "i5",
+  "name": "Gazoz (33 cl)",
+  "url": "gazoz-33cl",
+  "images": ["gazoz-33cl.jpg"],
+  "price": 79.99,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Ferahlatıcı aromasıyla klasik gazoz, 33 cl kutu ambalajında sunulur. Soğuk servis edilir.",
+  "metaDesc": "33 cl kutu gazoz, paketli ürün.",
+  "keywords": "gazoz, meyveli gazoz, kutu içecek, meşrubat, soğuk içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Gazlı içecek.",
+    "Paketli ürün.",
+    "Soğuk servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

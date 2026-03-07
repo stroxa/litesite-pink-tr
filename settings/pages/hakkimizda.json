@@ -1,0 +1,40 @@
+{
+  "title": "Hakkımızda | Dürümcü",
+  "description": "Dürümcü olarak geleneksel döner, tantuni ve dürüm lezzetleriyle her gün taze ve doyurucu yemekler sunuyoruz. Hikayemizi ve felsefemizi keşfedin.",
+  "keywords": "dürümcü hakkında, döner, tantuni, dürüm, geleneksel lezzet, taze malzeme",
+  "showOnHeaderMenu": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Biz Kimiz",
+      "content": [
+        "Dürümcü, geleneksel tarifler ve taze malzemeleri bir araya getirerek döner, tantuni ve dürüm severlere eşsiz bir lezzet deneyimi sunmak amacıyla kuruldu.",
+        "Her gün taze hazırlanan ürünlerimizle sofralarınıza lezzet ve kaliteyi taşıyoruz."
+      ]
+    },
+    {
+      "title": "Felsefemiz",
+      "content": [
+        "Taze, doğal ve kaliteli malzeme kullanımına inanıyoruz.",
+        "Döner, tantuni ve dürümlerimizi geleneksel yöntemlerle hazırlıyor, endüstriyel üretimden uzak duruyoruz.",
+        "Lezzetten taviz vermeden doyurucu yemekler sunmak temel ilkemizdir."
+      ]
+    },
+    {
+      "title": "Menümüz",
+      "content": [
+        "Dönerler, ızgaralar ve tantunilerin yanı sıra serinletici içeceklerimizle zengin bir menü sunuyoruz.",
+        "Tüm ürünlerimiz günlük taze olarak hazırlanır."
+      ]
+    },
+    {
+      "title": "Sipariş",
+      "content": [
+        "WhatsApp üzerinden kolayca sipariş verebilirsiniz.",
+        "Yakın çevredeki siparişlerde teslimat ücretsizdir.",
+        "Soru ve görüşleriniz için siparis@durumcu.com adresimizden bize ulaşabilirsiniz."
+      ]
+    }
+  ]
+}

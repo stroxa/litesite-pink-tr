@@ -1,0 +1,22 @@
+{
+  "id": "i2",
+  "name": "Kola (33 cl)",
+  "url": "kola-33-cl",
+  "images": ["kola-33-cl.jpg"],
+  "price": 79.99,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "33 cl kutu ambalajında sunulan gazlı kola içeceğidir. Soğuk servis edilir ve yemeklerle birlikte tüketilebilir.",
+  "metaDesc": "33 cl kutu kola, paketli ürün.",
+  "keywords": "kola, gazlı içecek, kutu içecek, meşrubat, soğuk içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Gazlı içecek.",
+    "Paketli ürün.",
+    "Soğuk servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

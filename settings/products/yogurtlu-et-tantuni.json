@@ -1,0 +1,24 @@
+{
+  "id": "t5",
+  "name": "Yoğurtlu Et Tantuni",
+  "url": "yogurtlu-et-tantuni",
+  "images": ["yogurtlu-et-tantuni.jpg"],
+  "price": 420,
+  "weight": { "value": 100, "unit": "g" },
+  "category": { "name": "Tantuniler", "url": "tantuniler" },
+  "shortDesc": "Yoğurtlu et tantuni 100 gr dana eti ile hazırlanır ve özel yoğurt sosu ile zenginleştirilir. Yoğurdun ferahlatıcı tadı ile öne çıkan özel bir lezzettir.",
+  "metaDesc": "100 gr et tantuni; özel yoğurt sosu, sumaklı soğan, maydanoz ve küp domates ile lavaş arasında servis edilir.",
+  "keywords": "yoğurtlu et tantuni, et tantuni, dana tantuni, soslu tantuni, porsiyon tantuni",
+  "longDesc": [
+    "100 gr dana eti ile hazırlanır.",
+    "Özel yoğurt sosu ile servis edilir.",
+    "Sumaklı soğan, maydanoz ve küp domates eşlik eder.",
+    "Dana eti ince kıyılarak sacda pişirilir.",
+    "Yoğurt sosu hazırlanarak eklenir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "100 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

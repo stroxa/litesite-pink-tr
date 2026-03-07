@@ -1,0 +1,32 @@
+{
+  "name": "Dürümcü",
+  "legalName": "Dürümcü Gıda ve Yemek Hizmetleri",
+  "address": [
+    "Adres Satırı 1",
+    "İlçe İstanbul"
+  ],
+  "map": "#",
+  "phone": "+90 212 000 00 00",
+  "email": "siparis@durumcu.com",
+  "instagram": "#",
+  "facebook": "#",
+  "linkedin": "#",
+  "whatsapp": "+90 532 000 00 00",
+  "slogan": "Gerçek döner, tantuni ve dürüm lezzetleri.",
+  "description": "Dürümcü, geleneksel tariflerle hazırlanan döner, tantuni ve dürümlerini sizinle buluşturuyor.",
+
+  "currency": "TRY",
+  "currencySymbol": "₺",
+  "priceValidUntilDays": 30,
+
+  "brand": "Dürümcü",
+
+  "manufacturer": {
+    "name": "Dürümcü Gıda ve Yemek Hizmetleri",
+    "identifier": "TR34-0003",
+    "phone": "+902120000000",
+    "address": "Adres Satırı 1",
+    "city": "İstanbul",
+    "country": "TR"
+  }
+}

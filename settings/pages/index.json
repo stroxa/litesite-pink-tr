@@ -1,0 +1,7 @@
+{
+  "title": "Dürümcü | Döner, Tantuni ve Dürüm",
+  "description": "Dürümcü, geleneksel tariflerle hazırlanan döner, tantuni, dürüm ve ızgara lezzetlerini kapınıza kadar ulaştırıyor.",
+  "keywords": "dürümcü, döner, tantuni, dürüm, ızgara, adana dürüm, urfa dürüm, et tantuni, tavuk tantuni",
+  "priority": 1.0,
+  "partials": ["hero:headerHero", "product-cards"]
+}

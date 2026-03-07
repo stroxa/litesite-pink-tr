@@ -1,0 +1,24 @@
+{
+  "id": "iz3",
+  "name": "Et Şiş Dürüm",
+  "url": "et-sis-durum",
+  "images": ["et-sis-durum.jpg"],
+  "price": 400,
+  "weight": { "value": 200, "unit": "g" },
+  "category": { "name": "Izgaralar", "url": "izgaralar" },
+  "shortDesc": "Özenle marine edilmiş dana etleri ızgarada pişirilir ve lavaşa sarılır. Taze mevsim salatası ile sunulan bu dürüm, doyurucu ve protein açısından zengin bir seçenektir.",
+  "metaDesc": "Izgara dana et şiş, taze salata ile dürüm olarak servis edilir.",
+  "keywords": "et şiş dürüm, dana şiş dürüm, ızgara et dürüm, lavaş dürüm, et dürüm",
+  "longDesc": [
+    "Marine edilmiş dana eti kullanılır.",
+    "Izgarada pişirilir.",
+    "Lavaş ekmeği ile dürüm yapılır.",
+    "Etler şişe dizilerek ızgarada pişirilir.",
+    "Salata ile birlikte lavaşa sarılır.",
+    "Sıcak olarak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "200 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

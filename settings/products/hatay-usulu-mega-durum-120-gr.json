@@ -1,0 +1,24 @@
+{
+  "id": "d2",
+  "name": "Hatay Usulü Mega Dürüm (120 gr.)",
+  "url": "hatay-usulu-mega-durum-120-gr",
+  "images": ["hatay-usulu-mega-durum-120-gr.jpg"],
+  "price": 200,
+  "weight": { "value": 120, "unit": "g" },
+  "category": { "name": "Dönerler", "url": "donerler" },
+  "shortDesc": "Hatay usulü hazırlanan mega dürümümüz 120 gr tavuk döner içerir. Turşu, çıtır patates ve özel sarımsaklı sos ile lavaşa sarılır. Doyurucu ve pratik bir lezzet deneyimi sunar.",
+  "metaDesc": "120 gr tavuk döner; turşu, patates ve  sos ile dürüm halinde servis edilir.",
+  "keywords": "mega dürüm, hatay dürüm, tavuk dürüm, soslu dürüm, döner dürüm",
+  "longDesc": [
+    "120 gr tavuk döner kullanılır.",
+    "Turşu ve patates eklenir.",
+    "Lavaş ekmeği ile sarılır.",
+    "Döner taze kesilir.",
+    "Malzemeler lavaşa yerleştirilir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "120 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

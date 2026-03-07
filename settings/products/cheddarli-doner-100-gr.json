@@ -1,0 +1,24 @@
+{
+  "id": "d5",
+  "name": "Cheddarlı Döner (100 gr.)",
+  "url": "cheddarli-doner-100-gr",
+  "images": ["cheddarli-doner-100-gr.jpg"],
+  "price": 190,
+  "weight": { "value": 100, "unit": "g" },
+  "category": { "name": "Dönerler", "url": "donerler" },
+  "shortDesc": "Cheddarlı dönerimiz 100 gr tavuk döner üzerine eritilmiş cheddar peyniri ile hazırlanır. Cheddarın yoğun aroması dönerle mükemmel uyum sağlar. Peynir tutkunları için özel bir lezzet.",
+  "metaDesc": "100 gr tavuk döner, cheddar peyniri ile servis edilir.",
+  "keywords": "cheddarlı döner, peynirli döner, tavuk döner, cheddar peynir, soslu döner",
+  "longDesc": [
+    "100 gr tavuk döner kullanılır.",
+    "Cheddar peyniri içerir.",
+    "Sıcak servis edilir.",
+    "Döner taze kesilir.",
+    "Cheddar peyniri üzerine eritilir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "100 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

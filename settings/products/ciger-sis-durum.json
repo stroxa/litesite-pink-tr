@@ -1,0 +1,24 @@
+{
+  "id": "iz4",
+  "name": "Ciğer Şiş Dürüm (4 Şiş)",
+  "url": "ciger-sis-durum",
+  "images": ["ciger-sis-durum.jpg"],
+  "price": 390,
+  "weight": { "value": 200, "unit": "g" },
+  "category": { "name": "Izgaralar", "url": "izgaralar" },
+  "shortDesc": "Taze dana ciğeri 4 şiş halinde ızgarada pişirilir ve lavaşa sarılır. Kendine özgü aromasıyla ciğer severler için özel bir dürüm seçeneğidir.",
+  "metaDesc": "Izgara dana ciğer şiş, taze salata ile dürüm olarak servis edilir.",
+  "keywords": "ciğer dürüm, dana ciğer dürüm, ızgara ciğer dürüm, geleneksel dürüm, protein dürüm",
+  "longDesc": [
+    "4 şiş dana ciğer kullanılır.",
+    "Izgarada pişirilir.",
+    "Lavaş ekmeği ile dürüm yapılır.",
+    "Ciğerler şişe dizilerek ızgarada pişirilir.",
+    "Salata ile birlikte lavaşa sarılır.",
+    "Sıcak olarak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "200 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

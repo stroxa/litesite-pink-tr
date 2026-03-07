@@ -1,0 +1,24 @@
+{
+  "id": "d3",
+  "name": "Kaşarlı Döner (100 gr.)",
+  "url": "kasarli-doner-100-gr",
+  "images": ["kasarli-doner-100-gr.jpg"],
+  "price": 190,
+  "weight": { "value": 100, "unit": "g" },
+  "category": { "name": "Dönerler", "url": "donerler" },
+  "shortDesc": "Kaşarlı dönerimiz 100 gr tavuk döner üzerine eritilmiş kaşar peyniri ile hazırlanır. Sos, patates, turşu ve sarımsaklı mayonez eşlik eder. Peynir severlerin favorisi olan zengin bir lezzet.",
+  "metaDesc": "100 gr tavuk döner, kaşar peyniri, patates, Hatay sosu, turşu ve özel sarımsaklı mayonez ile servis edilir.",
+  "keywords": "kaşarlı döner, peynirli döner, tavuk döner, hatay döner, soslu döner",
+  "longDesc": [
+    "100 gr tavuk döner kullanılır.",
+    "Kaşar peyniri içerir.",
+    "Patates ve turşu ile servis edilir.",
+    "Döner taze kesilir.",
+    "Kaşar peyniri üzerine eritilir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "100 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

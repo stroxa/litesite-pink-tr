@@ -1,0 +1,24 @@
+{
+  "id": "d4",
+  "name": "Special Döner",
+  "url": "special-doner",
+  "images": ["special-doner.jpg"],
+  "price": 250,
+  "weight": { "value": 150, "unit": "g" },
+  "category": { "name": "Dönerler", "url": "donerler" },
+  "shortDesc": "Special Döner, 75 gr dana et ve 75 gr tavuk dönerin mükemmel birleşimidir. Üzerine eritilmiş kaşar peyniri ile zenginleştirilir. İki farklı etin uyumunu tek porsiyonda deneyimleyin.",
+  "metaDesc": "75 gr dana et döner ve 75 gr tavuk döner karışımı, kaşar peyniri ile özel hazırlanır.",
+  "keywords": "özel döner, karışık döner, dana döner, tavuk döner, kaşarlı döner",
+  "longDesc": [
+    "75 gr dana et döner kullanılır.",
+    "75 gr tavuk döner eklenir.",
+    "Kaşar peyniri ile zenginleştirilir.",
+    "Dönerler taze kesilir.",
+    "Kaşar peyniri eritilir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "150 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

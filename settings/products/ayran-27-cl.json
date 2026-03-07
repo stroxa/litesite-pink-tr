@@ -1,0 +1,22 @@
+{
+  "id": "i6",
+  "name": "Ayran (27 cl)",
+  "url": "ayran-27-cl",
+  "images": ["ayran-27-cl.jpg"],
+  "price": 55,
+  "weight": { "value": 270, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Yoğurt bazlı geleneksel Türk içeceği ayran, 27 cl büyük boy ambalajıyla doyurucu ve ferahlatıcı bir içim sunar.",
+  "metaDesc": "27 cl büyük boy ayran, paketli ürün.",
+  "keywords": "ayran, yoğurt içeceği, geleneksel içecek, soğuk içecek",
+  "longDesc": [
+    "27 cl ambalaj.",
+    "Yoğurt bazlı içecek.",
+    "Paketli ürün.",
+    "Soğuk servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "270 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

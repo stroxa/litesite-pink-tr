@@ -1,0 +1,31 @@
+{
+  "title": "Menümüz | Dürümcü",
+  "description": "Geleneksel tariflerle hazırlanan döner, tantuni, dürüm ve ızgara çeşitlerimizi keşfedin. Tüm ürünlerimiz günlük taze hazırlanır.",
+  "keywords": "dürümcü menü, döner, tantuni, dürüm, ızgara, adana dürüm, urfa dürüm, et tantuni, tavuk tantuni, içecekler",
+  "showOnHeaderMenu": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "product-cards", "article-footer"],
+  "parts": [
+    {
+      "title": "Döner ve Dürüm",
+      "content": [
+        "Dürümcü'de her ürün, günlük taze hazırlanan malzemelerle geleneksel yöntemlerle üretilir.",
+        "Hatay usulü tavuk dönerden special dönerimize, kaşarlı ve cheddarlı seçeneklerimize kadar geniş bir döner menüsü sunuyoruz."
+      ]
+    },
+    {
+      "title": "Tantuni",
+      "content": [
+        "Mersin usulü tantunilerimiz dana ve tavuk seçenekleriyle, ekmek arası veya dürüm olarak servis edilir.",
+        "Yoğurtlu tantuni seçeneklerimizle farklı bir lezzet deneyimi yaşayın."
+      ]
+    },
+    {
+      "title": "Sipariş Ver",
+      "content": [
+        "WhatsApp üzerinden kolayca sipariş verebilirsiniz.",
+        "Yakın çevredeki siparişlerde teslimat ücretsizdir."
+      ]
+    }
+  ]
+}
