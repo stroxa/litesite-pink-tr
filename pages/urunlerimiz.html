@@ -8,13 +8,1119 @@
     <meta name="keywords" content="dürümcü menü, döner, tantuni, dürüm, ızgara, adana dürüm, urfa dürüm, et tantuni, tavuk tantuni, içecekler">
     <link rel="canonical" href="https://durumcu.com/pages/urunlerimiz.html">
     <link rel="alternate" hreflang="tr" href="https://durumcu.com/pages/urunlerimiz.html">
-    <link rel="stylesheet" href="/site.css" />
+    
+    <style>:root {
+--bg: #eef7fd;
+--surface: #ffffff;
+--surface2: #fce8f0;
+--accent: #d44a7a;
+--accent2: #5ab0d8;
+--text: #3c2030;
+--muted: #a87888;
+--border: #ead8e4;
+--white: #fff;
+--shadow: rgba(180, 80, 120, .08);
+--font-serif: Georgia, 'Times New Roman', serif;
+--font-sans: system-ui, -apple-system, sans-serif;
+--r-sm: 6px;
+--r-md: 10px;
+--r-lg: 16px;
+}
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+scrollbar-width: thin;
+scrollbar-color: var(--accent) var(--surface);
+}
+html,
+body,
+header,
+main,
+footer,
+section,
+article,
+div,
+menu,
+nav,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+p,
+address,
+table,
+td,
+th,
+button,
+input,
+label {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font: inherit;
+vertical-align: baseline;
+}
+menu,
+ul,
+li {
+list-style: none;
+}
+button {
+cursor: pointer;
+}
+html {
+height: 100%;
+font-size: 16px;
+}
+body {
+min-height: 100%;
+background: var(--bg);
+font-family: var(--font-sans);
+color: var(--text);
+text-align: center;
+}
+main {
+padding: 0;
+background: var(--bg);
+}
+main > :not(.hero):not(.page-img) {
+max-width: 1280px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1.5rem;
+padding-right: 1.5rem;
+}
+.hidden {
+visibility: hidden;
+height: 0;
+overflow: hidden;
+padding-top: 0;
+padding-bottom: 0;
+margin-top: 0;
+margin-bottom: 0;
+}
+.off {
+position: fixed;
+top: 0;
+left: 0;
+z-index: 100;
+visibility: hidden;
+width: 100%;
+padding: 0.8rem 1rem;
+background: rgba(40, 80, 120, 0.97);
+color: var(--white);
+font-weight: bold;
+font-size: 0.9rem;
+}
+/* ── Header ─────────────────────────────────── */
+header {
+position: sticky;
+top: 0;
+z-index: 50;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+padding: 1rem 2.5rem;
+background: #4aa8d8;
+border-bottom: 2px solid #3090c0;
+box-shadow: 0 2px 12px var(--shadow);
+}
+.logo-link {
+display: flex;
+align-items: center;
+gap: 0.75rem;
+flex-shrink: 0;
+text-decoration: none;
+}
+header img {
+height: 96px;
+width: auto;
+}
+.logo-brand {
+font-family: var(--font-serif);
+font-size: 2.5rem;
+font-weight: 700;
+color: #fff;
+letter-spacing: 0.02em;
+}
+/* ── Nav ─────────────────────────────────────── */
+nav {
+position: relative;
+}
+nav > div {
+display: flex;
+align-items: center;
+gap: 0.5rem;
+}
+nav a {
+padding: 0.55rem 1.25rem;
+border-radius: var(--r-sm);
+font-size: 1.05rem;
+font-weight: 600;
+color: rgba(255,255,255,0.88);
+text-decoration: none;
+white-space: nowrap;
+transition: color 0.2s, background 0.2s;
+}
+nav a:hover {
+color: #fff;
+background: rgba(255,255,255,0.18);
+}
+nav a.active {
+color: #fff;
+background: rgba(255,255,255,0.25);
+}
+/* ── Footer ─────────────────────────────────── */
+footer {
+padding: 3rem 1.5rem 2rem;
+background: #4aa8d8;
+border-top: 2px solid #3090c0;
+}
+footer > img {
+height: 72px;
+width: auto;
+margin-bottom: 1.5rem;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+footer menu {
+display: flex;
+justify-content: center;
+gap: 0.5rem;
+margin-bottom: 1.5rem;
+}
+footer menu a {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+width: 38px;
+height: 38px;
+border-radius: 50%;
+background: rgba(255,255,255,0.18);
+border: 1px solid rgba(255,255,255,0.25);
+transition: background 0.2s, border-color 0.2s;
+}
+footer menu a img {
+width: 20px;
+height: 20px;
+filter: brightness(0) invert(1) opacity(0.75);
+}
+.footer-contact {
+display: flex;
+justify-content: center;
+gap: 1rem;
+margin: 0 auto 2.5rem;
+max-width: 900px;
+padding: 1.75rem 1rem;
+border-top: 1px solid rgba(255,255,255,0.18);
+border-bottom: 1px solid rgba(255,255,255,0.18);
+}
+.footer-contact > * {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 0.4rem;
+color: rgba(255,255,255,0.88);
+font-size: 0.88rem;
+text-decoration: none;
+line-height: 1.5;
+}
+.footer-contact > *:first-child {
+max-width: 300px;
+}
+.footer-contact > * + * {
+border-left: 1px solid rgba(255,255,255,0.18);
+padding-left: 1rem;
+}
+.footer-contact > * > div {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 0.55rem;
+}
+.footer-contact b {
+font-size: 0.78rem;
+font-weight: 700;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: rgba(255,255,255,0.65);
+}
+.footer-contact > * > span {
+color: rgba(255,255,255,0.85);
+font-size: 0.88rem;
+text-align: center;
+}
+.footer-contact > * > div > span {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 1.8rem;
+height: 1.8rem;
+background: rgba(255,255,255,0.15);
+border-radius: 50%;
+flex-shrink: 0;
+}
+.footer-contact img {
+width: 1rem;
+height: 1rem;
+filter: brightness(0) invert(1);
+}
+@media (max-width: 600px) {
+.footer-contact {
+flex-direction: column;
+gap: 1.1rem;
+}
+.footer-contact > * + * {
+border-left: none;
+border-top: 1px solid rgba(255,255,255,0.18);
+padding-left: 0;
+padding-top: 1.1rem;
+}
+}
+.footer-links {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 0.25rem 1rem;
+margin-bottom: 1.5rem;
+}
+.footer-links a,
+.footer-links a:visited {
+font-size: 0.82rem;
+color: rgba(255,255,255,0.65);
+text-decoration: none;
+transition: color 0.2s;
+}
+footer > p {
+font-size: 0.78rem;
+color: rgba(255,255,255,0.40);
+}
+footer > .lang {
+display: flex;
+justify-content: center;
+gap: 0.15rem;
+margin-bottom: 0.5rem;
+}
+footer > .lang a,
+footer > .lang b {
+padding: 0.2rem 0.5rem;
+border-radius: 0.3rem;
+font-size: 0.85rem;
+color: rgba(255,255,255,0.65);
+text-decoration: none;
+}
+footer > .lang b {
+color: #fff;
+text-decoration: underline;
+text-underline-offset: 0.25rem;
+}
+footer > .lang a:hover {
+color: #fff;
+background: rgba(255,255,255,0.15);
+}
+/* ── Hero sections (shared) ─────────────────── */
+.hero {
+position: relative;
+overflow: hidden;
+}
+.hero img {
+display: block;
+width: 100%;
+min-height: 360px;
+max-height: 640px;
+object-fit: cover;
+object-position: center top;
+}
+.hero div {
+position: absolute;
+inset: 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background: linear-gradient(to bottom, rgba(0,0,0,.15) 0%, rgba(0,0,0,.50) 100%);
+padding: 2rem 1.5rem;
+}
+.hero p {
+font-family: var(--font-serif);
+font-size: 2.5rem;
+font-weight: bold;
+line-height: 1.5;
+color: var(--white);
+text-shadow: 0 2px 8px rgba(0,0,0,.5);
+}
+.hero a {
+display: inline-block;
+margin-top: 1.25rem;
+padding: 0.7rem 2rem;
+background: var(--accent);
+border-radius: var(--r-sm);
+font-size: 0.95rem;
+font-weight: 700;
+color: var(--white);
+text-decoration: none;
+letter-spacing: 0.03em;
+transition: background 0.2s;
+}
+/* ── Page hero image (page-image partial) ───── */
+.page-img {
+position: relative;
+overflow: hidden;
+max-height: 320px;
+}
+.page-img img {
+display: block;
+width: 100%;
+max-height: 320px;
+object-fit: cover;
+}
+/* ── Article wrapper ─────────────────────────── */
+article {
+padding: 2rem 0 1.5rem;
+text-align: left;
+}
+article > img {
+width: 100%;
+margin-block: 1rem;
+border-radius: var(--r-lg);
+}
+article > h2 {
+font-family: var(--font-serif);
+font-size: clamp(1.4rem, 4vw, 2rem);
+font-weight: bold;
+line-height: 1.3;
+color: var(--text);
+margin-bottom: 1rem;
+}
+article > h3 {
+font-family: var(--font-serif);
+font-size: 1.2rem;
+font-weight: bold;
+line-height: 1.5;
+color: var(--text);
+padding-top: 1.5rem;
+padding-bottom: 0.4rem;
+border-bottom: 1px solid var(--border);
+margin-bottom: 0.75rem;
+}
+article > h4 {
+font-family: var(--font-serif);
+font-size: 0.85rem;
+font-weight: bold;
+color: var(--muted);
+text-transform: uppercase;
+letter-spacing: 0.06em;
+margin-top: 1.25rem;
+margin-bottom: 0.25rem;
+}
+article > p {
+font-size: 1rem;
+line-height: 1.75;
+color: var(--text);
+padding-block: 0.35rem;
+opacity: 0.9;
+}
+article > ul {
+padding-left: 1.5rem;
+}
+article > ul > li {
+padding-block: 0.4rem;
+list-style: square;
+font-size: 1rem;
+line-height: 1.6;
+color: var(--text);
+opacity: 0.9;
+}
+article a,
+article a:visited {
+color: var(--accent2);
+}
+/* ── Contact address block ───────────────────── */
+address {
+display: flex;
+flex-direction: column;
+gap: 0.25rem;
+margin-top: 1.5rem;
+padding: 1.5rem 1.2rem;
+background: var(--surface);
+border: 1px solid var(--border);
+border-radius: var(--r-lg);
+text-align: left;
+}
+address > h3 {
+margin-bottom: 0.75rem;
+font-family: var(--font-serif);
+font-size: clamp(0.85rem, 4vw, 1.1rem);
+font-weight: bold;
+color: var(--text);
+white-space: nowrap;
+}
+address > div,
+address > a {
+display: flex;
+gap: 0.75rem;
+padding: 0.4rem;
+color: var(--text);
+text-decoration: none;
+transition: color 0.2s;
+}
+address > div {
+align-items: flex-start;
+}
+address > a {
+align-items: center;
+width: fit-content;
+}
+address img {
+width: 1.8rem;
+filter: brightness(0) opacity(0.5);
+flex-shrink: 0;
+}
+address p {
+font-size: 0.92rem;
+line-height: 1.5;
+}
+/* ── Site haritası ───────────────────────────── */
+article > h3 ~ ul {
+padding-left: 0;
+}
+article > h3 ~ ul li {
+list-style: none;
+padding-block: 0.3rem;
+}
+article > h3 ~ ul li a,
+article > h3 ~ ul li a:visited {
+color: var(--text);
+text-decoration: none;
+font-size: 0.95rem;
+transition: color 0.2s;
+}
+/* ── Product section accordion ──────────────────── */
+details {
+margin: 1.5rem 0 0;
+}
+details > summary {
+list-style: none;
+cursor: pointer;
+display: flex;
+align-items: center;
+padding: 1rem 1.25rem;
+background: #fbbdd8;
+border-bottom: 2px solid #e89cbd;
+border-radius: var(--r-md) var(--r-md) 0 0;
+font-family: var(--font-serif);
+font-size: 1.15rem;
+font-weight: bold;
+color: var(--text);
+user-select: none;
+width: 100%;
+box-sizing: border-box;
+}
+details > summary::-webkit-details-marker {
+display: none;
+}
+details > summary::before {
+content: '+';
+margin-right: 0.75rem;
+width: 1.75rem;
+height: 1.75rem;
+line-height: 1.75rem;
+text-align: center;
+font-size: 1.25rem;
+font-weight: 700;
+color: var(--accent);
+background: #fff5f9;
+border: 1.5px solid #e8b8d0;
+border-radius: 50%;
+flex-shrink: 0;
+}
+details[open] > summary::before {
+content: '−';
+background: var(--accent);
+color: #fff;
+border-color: var(--accent);
+}
+/* ── Product grid (all-products page) ──────────── */
+ul.prd {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 1.25rem;
+margin: 0;
+padding: 1.25rem;
+background: #fbbdd8;
+border-radius: 0 0 var(--r-md) var(--r-md);
+}
+ul.prd li {
+display: flex;
+flex-direction: column;
+overflow: hidden;
+background: linear-gradient(160deg, #fffafc 0%, #fce8f2 100%);
+border: 1px solid #f0c4d8;
+border-radius: var(--r-lg);
+box-shadow: 0 2px 14px rgba(212, 74, 122, 0.10);
+text-align: center;
+transition: border-color 0.2s, box-shadow 0.2s;
+}
+ul.prd a {
+display: block;
+color: inherit;
+text-decoration: none;
+}
+ul.prd a img {
+display: block;
+width: 100%;
+aspect-ratio: 4/3;
+object-fit: contain;
+background: #fff8fc;
+padding: 0.5rem;
+}
+ul.prd h3 {
+margin: 0.75rem 1rem 0.3rem;
+font-family: var(--font-serif);
+font-size: 1rem;
+font-weight: bold;
+color: var(--text);
+line-height: 1.3;
+}
+ul.prd b {
+display: block;
+margin: 0.2rem 1rem 1rem;
+font-size: 1.1rem;
+font-weight: 700;
+color: var(--accent);
+}
+ul.prd p {
+flex: 1;
+margin: 0.2rem 1rem 0.75rem;
+font-size: 0.85rem;
+line-height: 1.4;
+color: var(--muted);
+}
+ul.prd button {
+display: flex;
+align-items: center;
+justify-content: center;
+width: fit-content;
+min-height: 38px;
+margin: auto auto 1rem;
+padding: 0.5rem 1.5rem;
+background: var(--accent);
+border-radius: var(--r-sm);
+font-size: 0.95rem;
+font-weight: 700;
+color: var(--white);
+transition: background 0.2s;
+}
+@media (max-width: 600px) {
+ul.prd {
+grid-template-columns: 1fr;
+}
+}
+/* ── Product detail page ────────────────────── */
+.pdt {
+max-width: 680px;
+margin: 2rem auto;
+padding: 2rem;
+background: linear-gradient(160deg, #fffafc 0%, #fce8f2 100%);
+border: 1px solid #f0c4d8;
+border-radius: var(--r-lg);
+box-shadow: 0 4px 20px rgba(212, 74, 122, 0.12);
+}
+.pdt > img {
+display: block;
+width: 100%;
+max-width: 480px;
+margin: 0 auto 1.5rem;
+border-radius: var(--r-md);
+}
+.pdt > h1 {
+margin: 0 0 0.5rem;
+font-family: var(--font-serif);
+font-size: clamp(1.2rem, 4vw, 1.6rem);
+font-weight: bold;
+color: var(--text);
+}
+.pdt > b {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 0.4rem;
+margin: 0 0 0.75rem;
+font-size: 1.35rem;
+font-weight: 700;
+color: var(--accent);
+}
+.pdt > b i {
+font-size: 0.8rem;
+font-style: normal;
+color: var(--muted);
+}
+.pdt > button {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0.5rem auto 0;
+padding: 0.75rem 2rem;
+min-height: 44px;
+min-width: 160px;
+background: var(--accent);
+border-radius: var(--r-sm);
+font-size: 1rem;
+font-weight: 700;
+color: var(--white);
+transition: background 0.2s;
+}
+/* ── Tabs ────────────────────────────────────── */
+.tabs {
+margin-top: 1.75rem;
+text-align: left;
+}
+.tabs input[type="radio"] {
+display: none;
+}
+.tab-nav {
+display: flex;
+border-bottom: 2px solid var(--border);
+}
+.tab-nav label {
+flex: 1;
+padding: 0.7rem 1rem;
+font-size: 0.9rem;
+font-weight: 700;
+cursor: pointer;
+color: rgba(60, 32, 48, 0.45);
+border-bottom: 2px solid transparent;
+margin-bottom: -2px;
+transition: color 0.2s, border-color 0.2s;
+}
+#tab-desc:checked ~ .tab-nav label[for="tab-desc"],
+#tab-specs:checked ~ .tab-nav label[for="tab-specs"] {
+color: var(--accent);
+border-bottom-color: var(--accent);
+}
+.tab-desc,
+.tab-specs {
+display: none;
+padding: 1rem;
+background: #fff5f9;
+border: 1px solid #f0c4d8;
+border-top: none;
+border-radius: 0 0 var(--r-md) var(--r-md);
+}
+#tab-desc:checked ~ .tab-desc {
+display: block;
+}
+#tab-specs:checked ~ .tab-specs {
+display: block;
+}
+.tab-desc p {
+padding-block: 0.4rem;
+font-size: 0.95rem;
+line-height: 1.7;
+color: var(--text);
+opacity: 0.9;
+}
+.tab-specs table {
+width: 100%;
+border-collapse: collapse;
+}
+.tab-specs th,
+.tab-specs td {
+padding: 0.6rem 0.75rem;
+font-size: 0.9rem;
+text-align: left;
+}
+.tab-specs th {
+width: 50%;
+color: var(--muted);
+font-weight: 700;
+}
+.tab-specs td {
+color: var(--text);
+}
+@media (max-width: 600px) {
+ul.prd {
+grid-template-columns: 1fr;
+padding: 0.75rem;
+gap: 0.75rem;
+}
+.pdt {
+padding: 1.25rem;
+}
+.pdt > h1 {
+font-size: clamp(0.9rem, 5vw, 1.4rem);
+}
+}
+/* ── Basket hidden state ─────────────────────── */
+#basket .hidden {
+display: none !important;
+}
+/* ── Floating basket badge ───────────────────── */
+#basket-badge {
+position: fixed;
+right: 1.25rem;
+bottom: 1.5rem;
+z-index: 1000;
+text-decoration: none;
+background: var(--accent);
+border-radius: 50%;
+width: 72px;
+height: 72px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 6px 20px rgba(212, 74, 122, .40);
+transition: transform 0.2s, box-shadow 0.2s;
+border: 3px solid var(--surface2);
+}
+#basket-badge:active {
+transform: scale(0.95);
+}
+#basket-badge img {
+width: 36px;
+height: 36px;
+border: none;
+border-radius: 0;
+filter: brightness(0) invert(1);
+}
+#basket-badge span {
+position: absolute;
+top: -6px;
+right: -6px;
+background: #fff;
+color: var(--accent);
+font-size: 0.9rem;
+font-weight: 700;
+border-radius: 50%;
+min-width: 26px;
+height: 26px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 2px 6px rgba(0, 0, 0, .15);
+border: 2px solid var(--accent);
+}
+/* ── Qty control (inline) ────────────────────── */
+.qty-ctrl,
+ul.prd button.qty-ctrl,
+.pdt>button.qty-ctrl {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 0.4rem;
+background: var(--surface2);
+border: none;
+border-radius: 8px;
+padding: 0.25rem;
+}
+.pdt>button.qty-ctrl {
+padding: 0.5rem 1.5rem;
+}
+.qty-ctrl img {
+width: 26px;
+height: 26px;
+flex-shrink: 0;
+filter: brightness(0) opacity(0.6);
+cursor: pointer;
+padding: 4px;
+border-radius: 50%;
+border: 1.5px solid var(--border);
+}
+.qty-ctrl span {
+font-weight: 700;
+min-width: 1.5rem;
+text-align: center;
+font-size: 0.85rem;
+color: var(--text);
+white-space: nowrap;
+background: var(--surface2);
+padding: 0.25rem 0.45rem;
+border-radius: 4px;
+}
+/* ── Basket panel ────────────────────────────── */
+#basket {
+position: relative;
+background: var(--bg);
+padding: 0 1.5rem 4rem;
+margin-top: 3rem;
+border-top: 2px solid var(--border);
+}
+#basket>div {
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+}
+#basket .empty {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 5rem 1rem 1rem;
+max-width: 600px;
+margin: 0 auto;
+text-align: center;
+}
+#basket .empty img {
+width: 56px;
+height: 56px;
+opacity: 0.3;
+filter: brightness(0) opacity(0.25);
+border: none;
+border-radius: 0;
+}
+#basket .empty p {
+margin-top: 0.75rem;
+font-size: 0.95rem;
+color: var(--text);
+line-height: 1.6;
+}
+#basket .empty a {
+color: var(--accent);
+font-weight: 600;
+text-decoration: underline;
+text-underline-offset: 0.2rem;
+}
+#basket h5 {
+font-size: 1rem;
+color: var(--text);
+text-align: center;
+line-height: 1.7;
+font-weight: normal;
+margin-bottom: 1rem;
+padding-top: 0.4rem;
+}
+#basket .wrap {
+background: #fbbdd8;
+border: 1px solid #e89cbd;
+border-radius: var(--r-lg);
+padding: 1.25rem 1.5rem;
+box-shadow: 0 2px 12px rgba(212, 74, 122, 0.12);
+}
+#basket .wrap>button {
+display: flex;
+align-items: center;
+gap: 0.5rem;
+width: 100%;
+background: transparent;
+border: none;
+padding: 0.4rem 0 0.7rem;
+cursor: pointer;
+font-size: 0.9rem;
+}
+#basket .wrap>button::before,
+#basket .wrap>button::after {
+content: '';
+flex: 1;
+height: 1px;
+background: var(--border);
+}
+#basket .wrap>button b {
+font-weight: 700;
+color: var(--text);
+white-space: nowrap;
+}
+#basket .wrap>button i {
+font-style: normal;
+color: var(--text);
+white-space: nowrap;
+}
+#basket .wrap>button em {
+display: inline-block;
+width: 7px;
+height: 7px;
+border-right: 2px solid var(--text);
+border-bottom: 2px solid var(--text);
+transform: rotate(45deg);
+transition: transform 0.3s ease, margin 0.3s ease;
+margin-top: -3px;
+flex-shrink: 0;
+font-style: normal;
+}
+#basket .wrap>button.open em {
+transform: rotate(-135deg);
+margin-top: 3px;
+}
+#basket .wrap>div {
+overflow: hidden;
+padding-top: 0.5rem;
+}
+#basket .items>div {
+position: relative;
+display: flex;
+align-items: center;
+gap: 0.75rem;
+padding: 0.85rem;
+padding-right: 0;
+}
+#basket .items>div:last-of-type {
+border-bottom: none;
+}
+#basket .items>div>img:nth-child(2) {
+width: 72px;
+height: 72px;
+object-fit: cover;
+border-radius: var(--r-sm);
+}
+#basket .items>div>b {
+flex: 1;
+font-weight: 600;
+font-size: 1rem;
+color: var(--text);
+}
+#basket .items>div>span {
+font-weight: 700;
+min-width: 5.5rem;
+text-align: right;
+color: var(--accent);
+font-size: 1.1rem;
+}
+#basket .del {
+position: relative;
+top: auto;
+left: auto;
+transform: none;
+margin-right: 0.4rem;
+z-index: 1;
+width: 22px;
+height: 22px;
+cursor: pointer;
+padding: 3px;
+border-radius: 50%;
+filter: brightness(0) sepia(1) saturate(5) hue-rotate(290deg) brightness(0.7);
+}
+#basket .del:active {
+background: var(--surface2);
+}
+#basket .items>div .qty-ctrl {
+padding: 0.25rem 0.5rem;
+gap: 0.3rem;
+}
+#basket .items>div .qty-ctrl img {
+width: 20px;
+height: 20px;
+}
+#basket .totals {
+padding: 1rem 0;
+}
+#basket .totals>div {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0.3rem 0;
+font-size: 0.95rem;
+color: var(--text);
+}
+#basket .totals b {
+font-weight: 600;
+}
+#basket .totals>small {
+display: block;
+font-size: 0.8rem;
+font-weight: 600;
+color: var(--text);
+text-align: center;
+background: var(--bg);
+padding: 0.45rem 0.75rem;
+margin: 0.5rem 0;
+border-radius: var(--r-sm);
+border: 1px solid var(--border);
+}
+#basket .totals .total {
+font-weight: 700;
+font-size: 1.2rem;
+border-top: 2px solid var(--border);
+margin-top: 0.75rem;
+padding-top: 0.75rem;
+color: var(--accent);
+}
+#basket .wa {
+display: block;
+max-width: 340px;
+margin: 1.25rem auto;
+padding: 0.9rem 2rem;
+background: #25D366;
+color: var(--white);
+border: none;
+border-radius: var(--r-md);
+font-size: 1rem;
+font-weight: 700;
+cursor: pointer;
+text-align: center;
+transition: background 0.2s, transform 0.15s;
+letter-spacing: 0.02em;
+}
+#basket .wa:active {
+transform: scale(0.98);
+}
+#basket .wrap>div>h6 {
+font-size: 0.82rem;
+font-weight: normal;
+color: var(--muted);
+text-align: center;
+padding: 0.75rem 0;
+line-height: 1.6;
+}
+@media (max-width: 600px) {
+#basket h5 {
+font-size: 0.85rem;
+}
+#basket .items>div {
+gap: 0.5rem;
+}
+#basket .items>div>img:nth-child(2) {
+width: 48px;
+height: 48px;
+}
+#basket .items>div>b {
+flex: 1;
+font-size: 0.85rem;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+#basket .items>div .qty-ctrl {
+flex-shrink: 0;
+padding: 0.25rem 0.4rem;
+gap: 0.25rem;
+}
+#basket .items>div .qty-ctrl img {
+width: 20px;
+height: 20px;
+}
+#basket .items>div>span {
+min-width: 4.5rem;
+text-align: right;
+flex-shrink: 0;
+font-size: 0.9rem;
+}
+#basket .del {
+width: 20px;
+height: 20px;
+}
+#basket-badge {
+width: 62px;
+height: 62px;
+right: 8px;
+bottom: 1rem;
+}
+#basket-badge img {
+width: 30px;
+height: 30px;
+}
+}</style>
     <link rel="icon" href="/favicon.png" type="image/png"/>
   </head>
   <body>
     <section class="off">İnternet'e erişilemiyor, lütfen bağlantınızı kontrol ediniz.</section>
     <header>
-      <a href="/" class="logo-link"><img src="/logo.png" alt="Gerçek döner, tantuni ve dürüm lezzetleri." title="Gerçek döner, tantuni ve dürüm lezzetleri." /><span class="logo-brand">Dürümcü</span></a>
+      <a href="/" class="logo-link"><img src="/logo.webp" alt="Gerçek döner, tantuni ve dürüm lezzetleri." title="Gerçek döner, tantuni ve dürüm lezzetleri." /><span class="logo-brand">Dürümcü</span></a>
       <nav><div><a href="/pages/hakkimizda.html">Hakkımızda</a><a href="/pages/urunlerimiz.html" class="active">Menümüz</a></div></nav>
     </header>
     <main><article><h2>Menümüz</h2><h3>Döner ve Dürüm</h3><p>Dürümcü'de her ürün, günlük taze hazırlanan malzemelerle geleneksel yöntemlerle üretilir.</p><p>Hatay usulü tavuk dönerden special dönerimize, kaşarlı ve cheddarlı seçeneklerimize kadar geniş bir döner menüsü sunuyoruz.</p><h3>Tantuni</h3><p>Mersin usulü tantunilerimiz dana ve tavuk seçenekleriyle, ekmek arası veya dürüm olarak servis edilir.</p><p>Yoğurtlu tantuni seçeneklerimizle farklı bir lezzet deneyimi yaşayın.</p><h3>Sipariş Ver</h3><p>WhatsApp üzerinden kolayca sipariş verebilirsiniz.</p><p>Yakın çevredeki siparişlerde teslimat ücretsizdir.</p><details open><summary>Dönerler</summary><ul class="prd"><li><a href="/products/hatay-usulu-tavuk-doner-100-gr.html"><img src="/img/products/hatay-usulu-tavuk-doner-100-gr.jpg-k.webp" data-src="/img/products/hatay-usulu-tavuk-doner-100-gr.jpg" loading="lazy" alt="Dürümcü Hatay Usulü Tavuk Döner (100 gr.)" title="Dürümcü Hatay Usulü Tavuk Döner (100 gr.)"><h3>Hatay Usulü Tavuk Döner (100 gr.)</h3></a><p>Hatay'ın eşsiz lezzetini yansıtan tavuk dönerimiz özel Hatay sosu ile tatlandırılır. Çıtır patates kızartması, mayonez ve turşu eşliğinde servis edilir. Hatay'ın otantik döner deneyimini yaşayın.</p><b>180 ₺</b><button data-id="d1">Sepete Ekle</button></li><li><a href="/products/hatay-usulu-mega-durum-120-gr.html"><img src="/img/products/hatay-usulu-mega-durum-120-gr.jpg-k.webp" data-src="/img/products/hatay-usulu-mega-durum-120-gr.jpg" loading="lazy" alt="Dürümcü Hatay Usulü Mega Dürüm (120 gr.)" title="Dürümcü Hatay Usulü Mega Dürüm (120 gr.)"><h3>Hatay Usulü Mega Dürüm (120 gr.)</h3></a><p>Hatay usulü hazırlanan mega dürümümüz 120 gr tavuk döner içerir. Turşu, çıtır patates ve özel sarımsaklı sos ile lavaşa sarılır. Doyurucu ve pratik bir lezzet deneyimi sunar.</p><b>200 ₺</b><button data-id="d2">Sepete Ekle</button></li><li><a href="/products/kasarli-doner-100-gr.html"><img src="/img/products/kasarli-doner-100-gr.jpg-k.webp" data-src="/img/products/kasarli-doner-100-gr.jpg" loading="lazy" alt="Dürümcü Kaşarlı Döner (100 gr.)" title="Dürümcü Kaşarlı Döner (100 gr.)"><h3>Kaşarlı Döner (100 gr.)</h3></a><p>Kaşarlı dönerimiz 100 gr tavuk döner üzerine eritilmiş kaşar peyniri ile hazırlanır. Sos, patates, turşu ve sarımsaklı mayonez eşlik eder. Peynir severlerin favorisi olan zengin bir lezzet.</p><b>190 ₺</b><button data-id="d3">Sepete Ekle</button></li><li><a href="/products/special-doner.html"><img src="/img/products/special-doner.jpg-k.webp" data-src="/img/products/special-doner.jpg" loading="lazy" alt="Dürümcü Special Döner" title="Dürümcü Special Döner"><h3>Special Döner</h3></a><p>Special Döner, 75 gr dana et ve 75 gr tavuk dönerin mükemmel birleşimidir. Üzerine eritilmiş kaşar peyniri ile zenginleştirilir. İki farklı etin uyumunu tek porsiyonda deneyimleyin.</p><b>250 ₺</b><button data-id="d4">Sepete Ekle</button></li><li><a href="/products/cheddarli-doner-100-gr.html"><img src="/img/products/cheddarli-doner-100-gr.jpg-k.webp" data-src="/img/products/cheddarli-doner-100-gr.jpg" loading="lazy" alt="Dürümcü Cheddarlı Döner (100 gr.)" title="Dürümcü Cheddarlı Döner (100 gr.)"><h3>Cheddarlı Döner (100 gr.)</h3></a><p>Cheddarlı dönerimiz 100 gr tavuk döner üzerine eritilmiş cheddar peyniri ile hazırlanır. Cheddarın yoğun aroması dönerle mükemmel uyum sağlar. Peynir tutkunları için özel bir lezzet.</p><b>190 ₺</b><button data-id="d5">Sepete Ekle</button></li></ul></details><details open><summary>Izgaralar</summary><ul class="prd"><li><a href="/products/adana-durum-120-gr.html"><img src="/img/products/adana-durum-120-gr.jpg-k.webp" data-src="/img/products/adana-durum-120-gr.jpg" loading="lazy" alt="Dürümcü Adana Dürüm (120 gr.)" title="Dürümcü Adana Dürüm (120 gr.)"><h3>Adana Dürüm (120 gr.)</h3></a><p>Acılı Adana kebap, 120 gr özel kıyma ile hazırlanır ve lavaşa sarılarak sunulur. Mevsim salatası ve turşu ile tamamlanan bu dürüm, baharatlı lezzet sevenler için ideal bir seçenektir.</p><b>300 ₺</b><button data-id="iz1">Sepete Ekle</button></li><li><a href="/products/urfa-durum-120-gr.html"><img src="/img/products/urfa-durum-120-gr.jpg-k.webp" data-src="/img/products/urfa-durum-120-gr.jpg" loading="lazy" alt="Dürümcü Urfa Dürüm (120 gr.)" title="Dürümcü Urfa Dürüm (120 gr.)"><h3>Urfa Dürüm (120 gr.)</h3></a><p>Urfa kebap, acısız özel kıyma karışımıyla hazırlanır. 120 gr olarak ızgarada pişirilir ve lavaşa sarılarak sunulur. Daha yumuşak lezzet tercih edenler için ideal dürümdür.</p><b>300 ₺</b><button data-id="iz2">Sepete Ekle</button></li><li><a href="/products/et-sis-durum.html"><img src="/img/products/et-sis-durum.jpg-k.webp" data-src="/img/products/et-sis-durum.jpg" loading="lazy" alt="Dürümcü Et Şiş Dürüm" title="Dürümcü Et Şiş Dürüm"><h3>Et Şiş Dürüm</h3></a><p>Özenle marine edilmiş dana etleri ızgarada pişirilir ve lavaşa sarılır. Taze mevsim salatası ile sunulan bu dürüm, doyurucu ve protein açısından zengin bir seçenektir.</p><b>400 ₺</b><button data-id="iz3">Sepete Ekle</button></li><li><a href="/products/ciger-sis-durum.html"><img src="/img/products/ciger-sis-durum.jpg-k.webp" data-src="/img/products/ciger-sis-durum.jpg" loading="lazy" alt="Dürümcü Ciğer Şiş Dürüm (4 Şiş)" title="Dürümcü Ciğer Şiş Dürüm (4 Şiş)"><h3>Ciğer Şiş Dürüm (4 Şiş)</h3></a><p>Taze dana ciğeri 4 şiş halinde ızgarada pişirilir ve lavaşa sarılır. Kendine özgü aromasıyla ciğer severler için özel bir dürüm seçeneğidir.</p><b>390 ₺</b><button data-id="iz4">Sepete Ekle</button></li><li><a href="/products/tavuk-sis-durum.html"><img src="/img/products/tavuk-sis-durum.jpg-k.webp" data-src="/img/products/tavuk-sis-durum.jpg" loading="lazy" alt="Dürümcü Tavuk Şiş Dürüm" title="Dürümcü Tavuk Şiş Dürüm"><h3>Tavuk Şiş Dürüm</h3></a><p>Marine edilmiş tavuk şişler ızgarada pişirilir ve lavaşa sarılır. Hafif, dengeli ve lezzetli bir dürüm arayanlar için ideal bir alternatiftir.</p><b>280 ₺</b><button data-id="iz5">Sepete Ekle</button></li></ul></details><details open><summary>Tantuniler</summary><ul class="prd"><li><a href="/products/ekmek-arasi-tavuk-tantuni-100-gr.html"><img src="/img/products/ekmek-arasi-tavuk-tantuni-100-gr.jpg-k.webp" data-src="/img/products/ekmek-arasi-tavuk-tantuni-100-gr.jpg" loading="lazy" alt="Dürümcü Ekmek Arası Tavuk Tantuni (100 gr.)" title="Dürümcü Ekmek Arası Tavuk Tantuni (100 gr.)"><h3>Ekmek Arası Tavuk Tantuni (100 gr.)</h3></a><p>Mersin usulü tavuk tantuni 100 gr olarak hazırlanır. Sumaklı soğan, taze maydanoz ve küp domates ile Ekmeğin arasında sunulur. Doyurucu ve pratik bir tantuni seçeneğidir.</p><b>250 ₺</b><button data-id="t1">Sepete Ekle</button></li><li><a href="/products/tavuk-tantuni-durum-100-gr.html"><img src="/img/products/tavuk-tantuni-durum-100-gr.jpg-k.webp" data-src="/img/products/tavuk-tantuni-durum-100-gr.jpg" loading="lazy" alt="Dürümcü Tavuk Tantuni Dürüm (100 gr.)" title="Dürümcü Tavuk Tantuni Dürüm (100 gr.)"><h3>Tavuk Tantuni Dürüm (100 gr.)</h3></a><p>Mersin usulü tavuk tantuni 100 gr olarak hazırlanır. Sumaklı soğan, taze maydanoz ve küp domates ile lavaşa sarılır. Hafif ve kolay tüketilen dürüm seçeneğidir.</p><b>250 ₺</b><button data-id="t2">Sepete Ekle</button></li><li><a href="/products/ekmek-arasi-et-tantuni-100-gr.html"><img src="/img/products/ekmek-arasi-et-tantuni-100-gr.jpg-k.webp" data-src="/img/products/ekmek-arasi-et-tantuni-100-gr.jpg" loading="lazy" alt="Dürümcü Ekmek Arası Et Tantuni (100 gr.)" title="Dürümcü Ekmek Arası Et Tantuni (100 gr.)"><h3>Ekmek Arası Et Tantuni (100 gr.)</h3></a><p>Geleneksel Mersin usulü et tantuni 100 gr dana eti ile hazırlanır ve Ekmek arasında sunulur. Sumaklı soğan, taze maydanoz ve küp domates ile tamamlanır. Klasik ve doyurucu bir tantuni lezzeti.</p><b>400 ₺</b><button data-id="t3">Sepete Ekle</button></li><li><a href="/products/et-tantuni-durum-100-gr.html"><img src="/img/products/et-tantuni-durum-100-gr.jpg-k.webp" data-src="/img/products/et-tantuni-durum-100-gr.jpg" loading="lazy" alt="Dürümcü Et Tantuni Dürüm (100 gr.)" title="Dürümcü Et Tantuni Dürüm (100 gr.)"><h3>Et Tantuni Dürüm (100 gr.)</h3></a><p>Geleneksel et tantuni 100 gr dana eti ile hazırlanır ve lavaşa sarılarak sunulur. Sumaklı soğan, taze maydanoz ve küp domates eşlik eder. Pratik ve lezzetli bir dürüm seçeneğidir.</p><b>400 ₺</b><button data-id="t4">Sepete Ekle</button></li><li><a href="/products/yogurtlu-et-tantuni.html"><img src="/img/products/yogurtlu-et-tantuni.jpg-k.webp" data-src="/img/products/yogurtlu-et-tantuni.jpg" loading="lazy" alt="Dürümcü Yoğurtlu Et Tantuni" title="Dürümcü Yoğurtlu Et Tantuni"><h3>Yoğurtlu Et Tantuni</h3></a><p>Yoğurtlu et tantuni 100 gr dana eti ile hazırlanır ve özel yoğurt sosu ile zenginleştirilir. Yoğurdun ferahlatıcı tadı ile öne çıkan özel bir lezzettir.</p><b>420 ₺</b><button data-id="t5">Sepete Ekle</button></li><li><a href="/products/yogurtlu-tavuk-tantuni.html"><img src="/img/products/yogurtlu-tavuk-tantuni.jpg-k.webp" data-src="/img/products/yogurtlu-tavuk-tantuni.jpg" loading="lazy" alt="Dürümcü Yoğurtlu Tavuk Tantuni" title="Dürümcü Yoğurtlu Tavuk Tantuni"><h3>Yoğurtlu Tavuk Tantuni</h3></a><p>Yoğurtlu tavuk tantuni 100 gr tavuk eti ile hazırlanır ve özel yoğurt sosu ile zenginleştirilir. Hafif ve ferahlatıcı bir tantuni seçeneğidir.</p><b>300 ₺</b><button data-id="t6">Sepete Ekle</button></li></ul></details><details open><summary>İçecekler</summary><ul class="prd"><li><a href="/products/su-50-cl.html"><img src="/img/products/su-50-cl.jpg-k.webp" data-src="/img/products/su-50-cl.jpg" loading="lazy" alt="Dürümcü Su (50 cl)" title="Dürümcü Su (50 cl)"><h3>Su (50 cl)</h3></a><p>Saf ve temiz içme suyu, 50 cl pet şişe ambalajında sunulur. Doğal kaynak suyu.</p><b>19.99 ₺</b><button data-id="i1">Sepete Ekle</button></li><li><a href="/products/kola-33-cl.html"><img src="/img/products/kola-33-cl.jpg-k.webp" data-src="/img/products/kola-33-cl.jpg" loading="lazy" alt="Dürümcü Kola (33 cl)" title="Dürümcü Kola (33 cl)"><h3>Kola (33 cl)</h3></a><p>33 cl kutu ambalajında sunulan gazlı kola içeceğidir. Soğuk servis edilir ve yemeklerle birlikte tüketilebilir.</p><b>79.99 ₺</b><button data-id="i2">Sepete Ekle</button></li><li><a href="/products/kola-zero-33-cl.html"><img src="/img/products/kola-zero-33-cl.jpg-k.webp" data-src="/img/products/kola-zero-33-cl.jpg" loading="lazy" alt="Dürümcü Kola Zero (33 cl)" title="Dürümcü Kola Zero (33 cl)"><h3>Kola Zero (33 cl)</h3></a><p>Kola Zero, klasik kola tadını sıfır şekerle sunar. Kalori hassasiyeti olanlar için ideal tercihtir.</p><b>79.99 ₺</b><button data-id="i3">Sepete Ekle</button></li><li><a href="/products/sarıkola-33-cl.html"><img src="/img/products/sarıkola-33-cl.jpg-k.webp" data-src="/img/products/sarıkola-33-cl.jpg" loading="lazy" alt="Dürümcü Sarı Kola (33 cl)" title="Dürümcü Sarı Kola (33 cl)"><h3>Sarı Kola (33 cl)</h3></a><p>Limon aromalı, kafeinsiz sarı kola. Soğuk servis edilir ve sade içim tercih edenler için uygundur.</p><b>79.99 ₺</b><button data-id="i4">Sepete Ekle</button></li><li><a href="/products/gazoz-33cl.html"><img src="/img/products/gazoz-33cl.jpg-k.webp" data-src="/img/products/gazoz-33cl.jpg" loading="lazy" alt="Dürümcü Gazoz (33 cl)" title="Dürümcü Gazoz (33 cl)"><h3>Gazoz (33 cl)</h3></a><p>Ferahlatıcı aromasıyla klasik gazoz, 33 cl kutu ambalajında sunulur. Soğuk servis edilir.</p><b>79.99 ₺</b><button data-id="i5">Sepete Ekle</button></li><li><a href="/products/ayran-27-cl.html"><img src="/img/products/ayran-27-cl.jpg-k.webp" data-src="/img/products/ayran-27-cl.jpg" loading="lazy" alt="Dürümcü Ayran (27 cl)" title="Dürümcü Ayran (27 cl)"><h3>Ayran (27 cl)</h3></a><p>Yoğurt bazlı geleneksel Türk içeceği ayran, 27 cl büyük boy ambalajıyla doyurucu ve ferahlatıcı bir içim sunar.</p><b>55 ₺</b><button data-id="i6">Sepete Ekle</button></li></ul></details></article></main>
@@ -27,7 +1133,7 @@
       <span>Adres Satırı 1<br>İlçe İstanbul</span>
     </div><a href="tel:902120000000">
       <div><span><img src="/img/phone.png" alt="Telefon"></span><b>Telefon</b></div><span>+90 212 000 00 00</span>
-    </a><a href="mailto:siparis@corbaci.com">
+    </a><a href="mailto:siparis@durumcu.com">
       <div><span><img src="/img/email.png" alt="E-posta"></span><b>E-posta</b></div><span>siparis@durumcu.com</span>
     </a>
   </div>
@@ -35,6 +1141,6 @@
   <span class="lang"><b>TR</b></span>
   <p>Dürümcü Gıda ve Yemek Hizmetleri © 2026</p>
 </footer>
-    <script src="/site.js"></script>
+    <script src="/site.js" defer></script>
   </body>
 </html>
