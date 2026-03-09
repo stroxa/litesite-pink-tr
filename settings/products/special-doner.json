@@ -2,7 +2,7 @@
   "id": "d4",
   "name": "Special Döner",
   "url": "special-doner",
-  "images": ["special-doner.jpg"],
+  "images": ["special-doner.webp"],
   "price": 250,
   "weight": { "value": 150, "unit": "g" },
   "category": { "name": "Dönerler", "url": "donerler" },

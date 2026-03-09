@@ -2,7 +2,7 @@
   "id": "iz5",
   "name": "Tavuk Şiş Dürüm",
   "url": "tavuk-sis-durum",
-  "images": ["tavuk-sis-durum.jpg"],
+  "images": ["tavuk-sis-durum.webp"],
   "price": 280,
   "weight": { "value": 180, "unit": "g" },
   "category": { "name": "Izgaralar", "url": "izgaralar" },

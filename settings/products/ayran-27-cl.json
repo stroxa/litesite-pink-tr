@@ -2,7 +2,7 @@
   "id": "i6",
   "name": "Ayran (27 cl)",
   "url": "ayran-27-cl",
-  "images": ["ayran-27-cl.jpg"],
+  "images": ["ayran-27-cl.webp"],
   "price": 55,
   "weight": { "value": 270, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

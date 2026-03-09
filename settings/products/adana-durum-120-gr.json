@@ -2,7 +2,7 @@
   "id": "iz1",
   "name": "Adana Dürüm (120 gr.)",
   "url": "adana-durum-120-gr",
-  "images": ["adana-durum-120-gr.jpg"],
+  "images": ["adana-durum-120-gr.webp"],
   "price": 300,
   "weight": { "value": 120, "unit": "g" },
   "category": { "name": "Izgaralar", "url": "izgaralar" },

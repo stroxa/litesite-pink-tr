@@ -2,7 +2,7 @@
   "id": "i3",
   "name": "Kola Zero (33 cl)",
   "url": "kola-zero-33-cl",
-  "images": ["kola-zero-33-cl.jpg"],
+  "images": ["kola-zero-33-cl.webp"],
   "price": 79.99,
   "weight": { "value": 330, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

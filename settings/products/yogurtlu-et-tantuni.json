@@ -2,7 +2,7 @@
   "id": "t5",
   "name": "Yoğurtlu Et Tantuni",
   "url": "yogurtlu-et-tantuni",
-  "images": ["yogurtlu-et-tantuni.jpg"],
+  "images": ["yogurtlu-et-tantuni.webp"],
   "price": 420,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

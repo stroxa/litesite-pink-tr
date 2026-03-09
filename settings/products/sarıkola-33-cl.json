@@ -2,7 +2,7 @@
   "id": "i4",
   "name": "Sarı Kola (33 cl)",
   "url": "sarıkola-33-cl",
-  "images": ["sarıkola-33-cl.jpg"],
+  "images": ["sarıkola-33-cl.webp"],
   "price": 79.99,
   "weight": { "value": 330, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

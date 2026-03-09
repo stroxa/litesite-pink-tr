@@ -2,7 +2,7 @@
   "id": "iz4",
   "name": "Ciğer Şiş Dürüm (4 Şiş)",
   "url": "ciger-sis-durum",
-  "images": ["ciger-sis-durum.jpg"],
+  "images": ["ciger-sis-durum.webp"],
   "price": 390,
   "weight": { "value": 200, "unit": "g" },
   "category": { "name": "Izgaralar", "url": "izgaralar" },

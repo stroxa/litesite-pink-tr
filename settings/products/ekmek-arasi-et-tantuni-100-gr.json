@@ -2,7 +2,7 @@
   "id": "t3",
   "name": "Ekmek Arası Et Tantuni (100 gr.)",
   "url": "ekmek-arasi-et-tantuni-100-gr",
-  "images": ["ekmek-arasi-et-tantuni-100-gr.jpg"],
+  "images": ["ekmek-arasi-et-tantuni-100-gr.webp"],
   "price": 400,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

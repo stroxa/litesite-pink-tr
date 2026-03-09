@@ -2,7 +2,7 @@
   "id": "t2",
   "name": "Tavuk Tantuni Dürüm (100 gr.)",
   "url": "tavuk-tantuni-durum-100-gr",
-  "images": ["tavuk-tantuni-durum-100-gr.jpg"],
+  "images": ["tavuk-tantuni-durum-100-gr.webp"],
   "price": 250,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

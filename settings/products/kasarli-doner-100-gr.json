@@ -2,7 +2,7 @@
   "id": "d3",
   "name": "Kaşarlı Döner (100 gr.)",
   "url": "kasarli-doner-100-gr",
-  "images": ["kasarli-doner-100-gr.jpg"],
+  "images": ["kasarli-doner-100-gr.webp"],
   "price": 190,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Dönerler", "url": "donerler" },

@@ -2,7 +2,7 @@
   "id": "t1",
   "name": "Ekmek Arası Tavuk Tantuni (100 gr.)",
   "url": "ekmek-arasi-tavuk-tantuni-100-gr",
-  "images": ["ekmek-arasi-tavuk-tantuni-100-gr.jpg"],
+  "images": ["ekmek-arasi-tavuk-tantuni-100-gr.webp"],
   "price": 250,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

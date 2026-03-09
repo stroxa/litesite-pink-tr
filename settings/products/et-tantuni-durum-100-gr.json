@@ -2,7 +2,7 @@
   "id": "t4",
   "name": "Et Tantuni Dürüm (100 gr.)",
   "url": "et-tantuni-durum-100-gr",
-  "images": ["et-tantuni-durum-100-gr.jpg"],
+  "images": ["et-tantuni-durum-100-gr.webp"],
   "price": 400,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

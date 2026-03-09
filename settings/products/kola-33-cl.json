@@ -2,7 +2,7 @@
   "id": "i2",
   "name": "Kola (33 cl)",
   "url": "kola-33-cl",
-  "images": ["kola-33-cl.jpg"],
+  "images": ["kola-33-cl.webp"],
   "price": 79.99,
   "weight": { "value": 330, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

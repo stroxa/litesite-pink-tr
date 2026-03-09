@@ -2,7 +2,7 @@
   "id": "i5",
   "name": "Gazoz (33 cl)",
   "url": "gazoz-33cl",
-  "images": ["gazoz-33cl.jpg"],
+  "images": ["gazoz-33cl.webp"],
   "price": 79.99,
   "weight": { "value": 330, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

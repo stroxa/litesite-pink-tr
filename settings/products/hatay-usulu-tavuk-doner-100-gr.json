@@ -2,7 +2,7 @@
   "id": "d1",
   "name": "Hatay Usulü Tavuk Döner (100 gr.)",
   "url": "hatay-usulu-tavuk-doner-100-gr",
-  "images": ["hatay-usulu-tavuk-doner-100-gr.jpg"],
+  "images": ["hatay-usulu-tavuk-doner-100-gr.webp"],
   "price": 180,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Dönerler", "url": "donerler" },

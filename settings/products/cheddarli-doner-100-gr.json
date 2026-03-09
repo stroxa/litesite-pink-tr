@@ -2,7 +2,7 @@
   "id": "d5",
   "name": "Cheddarlı Döner (100 gr.)",
   "url": "cheddarli-doner-100-gr",
-  "images": ["cheddarli-doner-100-gr.jpg"],
+  "images": ["cheddarli-doner-100-gr.webp"],
   "price": 190,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Dönerler", "url": "donerler" },

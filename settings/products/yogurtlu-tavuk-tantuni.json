@@ -2,7 +2,7 @@
   "id": "t6",
   "name": "Yoğurtlu Tavuk Tantuni",
   "url": "yogurtlu-tavuk-tantuni",
-  "images": ["yogurtlu-tavuk-tantuni.jpg"],
+  "images": ["yogurtlu-tavuk-tantuni.webp"],
   "price": 300,
   "weight": { "value": 100, "unit": "g" },
   "category": { "name": "Tantuniler", "url": "tantuniler" },

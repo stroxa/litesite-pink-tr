@@ -2,7 +2,7 @@
   "id": "iz2",
   "name": "Urfa Dürüm (120 gr.)",
   "url": "urfa-durum-120-gr",
-  "images": ["urfa-durum-120-gr.jpg"],
+  "images": ["urfa-durum-120-gr.webp"],
   "price": 300,
   "weight": { "value": 120, "unit": "g" },
   "category": { "name": "Izgaralar", "url": "izgaralar" },

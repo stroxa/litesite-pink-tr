@@ -2,7 +2,7 @@
   "id": "d2",
   "name": "Hatay Usulü Mega Dürüm (120 gr.)",
   "url": "hatay-usulu-mega-durum-120-gr",
-  "images": ["hatay-usulu-mega-durum-120-gr.jpg"],
+  "images": ["hatay-usulu-mega-durum-120-gr.webp"],
   "price": 200,
   "weight": { "value": 120, "unit": "g" },
   "category": { "name": "Dönerler", "url": "donerler" },

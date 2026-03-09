@@ -2,7 +2,7 @@
   "id": "i1",
   "name": "Su (50 cl)",
   "url": "su-50-cl",
-  "images": ["su-50-cl.jpg"],
+  "images": ["su-50-cl.webp"],
   "price": 19.99,
   "weight": { "value": 500, "unit": "ml" },
   "category": { "name": "İçecekler", "url": "icecekler" },

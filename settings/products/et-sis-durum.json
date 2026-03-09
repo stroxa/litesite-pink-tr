@@ -2,7 +2,7 @@
   "id": "iz3",
   "name": "Et Şiş Dürüm",
   "url": "et-sis-durum",
-  "images": ["et-sis-durum.jpg"],
+  "images": ["et-sis-durum.webp"],
   "price": 400,
   "weight": { "value": 200, "unit": "g" },
   "category": { "name": "Izgaralar", "url": "izgaralar" },
