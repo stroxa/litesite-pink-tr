@@ -1,0 +1,23 @@
+{
+  "id": "ts2",
+  "name": "Karışık Tost",
+  "url": "karisik-tost",
+  "images": ["karisik-tost.webp"],
+  "price": 200,
+  "weight": { "value": 250, "unit": "g" },
+  "category": { "name": "Tostlar", "url": "tostlar" },
+  "shortDesc": "Karışık tostumuz sucuk ve bol kaşar peynirinin uyumuyla hazırlanır. Çıtır ekmek arasında sunulan tost, patates kızartması, domates ve salatalık ile servis edilir. Doyurucu ve lezzetli bir tercihtir.",
+  "metaDesc": "Karışık tostumuz sucuk ve bol kaşar peynirinin uyumuyla hazırlanır. Çıtır ekmek arasında sunulan tost, patates kızartması, domates ve salatalık ile servis edili",
+  "keywords": "karışık tost, sucuklu kaşarlı tost, tost çeşitleri, klasik tost, sokak lezzetleri",
+  "longDesc": [
+    "Sucuk dilimleri tost makinesine girmeden önce hafifçe ön ısıtma alır; bu işlem baharatların açılmasını ve iç yağın aromatik kalmasını sağlar",
+    "Bol erimiş kaşar peyniri sucuğun yoğun baharat karakterini sararken ikisi arasında tamamlayıcı bir tat uyumu oluşur",
+    "Tost makinesinin çift taraflı ısısı ekmeğin dışını çıtır kılarken içteki malzemelerin sıcaklığını ve aromasını korur",
+    "Taze domates ve salatalık ile birlikte gelen porsiyon yoğun sucuk-peynir dengesine hafif bir tazelik katar",
+    "Türk mutfağının en sevilen sokak lezzetlerinden biri olan karışık tost; doyuruculuğu ve kolay tüketimiyle her öğüne uyum sağlar"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "250 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

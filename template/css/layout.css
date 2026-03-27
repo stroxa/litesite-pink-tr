@@ -159,7 +159,7 @@ footer menu a {
   justify-content: center;
   width: 38px;
   height: 38px;
-  border-radius: 50%;
+  border-radius: 0;
   background: rgba(255,255,255,0.18);
   border: 1px solid rgba(255,255,255,0.25);
   transition: background 0.2s, border-color 0.2s;
@@ -232,7 +232,7 @@ footer menu a img {
   width: 1.8rem;
   height: 1.8rem;
   background: rgba(255,255,255,0.15);
-  border-radius: 50%;
+  border-radius: 0;
   flex-shrink: 0;
 }
 
@@ -295,7 +295,7 @@ footer > .lang {
 footer > .lang a,
 footer > .lang b {
   padding: 0.2rem 0.5rem;
-  border-radius: 0.3rem;
+  border-radius: 0;
   font-size: 0.85rem;
   color: rgba(255,255,255,0.65);
   text-decoration: none;

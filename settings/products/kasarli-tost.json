@@ -1,0 +1,23 @@
+{
+  "id": "ts1",
+  "name": "Kaşarlı Tost",
+  "url": "kasarli-tost",
+  "images": ["kasarli-tost.webp"],
+  "price": 200,
+  "weight": { "value": 200, "unit": "g" },
+  "category": { "name": "Tostlar", "url": "tostlar" },
+  "shortDesc": "Klasik kaşarlı tostumuz bol kaşar peyniri ile hazırlanır ve çıtır ekmek arasında sunulur. Patates kızartması, taze domates ve salatalık eşlik eder. Pratik ve doyurucu bir tost seçeneğidir.",
+  "metaDesc": "Klasik kaşarlı tostumuz bol kaşar peyniri ile hazırlanır ve çıtır ekmek arasında sunulur. Patates kızartması, taze domates ve salatalık eşlik eder. Pratik ve do",
+  "keywords": "kaşarlı tost, peynirli tost, sade tost, klasik tost, çıtır tost",
+  "longDesc": [
+    "Bol miktarda kaliteli kaşar peyniri iki dilim tost ekmeğinin arasına yerleştirilir; peynirin eşit dağılımı her lokmanın aynı lezzeti taşımasını sağlar",
+    "Tost makinesi ekmeğin her iki tarafını eşit basınç ve ısıyla sıkıştırarak peynirin tam anlamıyla erimesini ve ekmeğin kızarmasını sağlar",
+    "Altın sarısı, hafif çıtır dış kabuğun içinden akan erimiş peynir; kaşarlı tostun vazgeçilmez kıvamını ve sıcaklığını verir",
+    "Yanında gelen taze domates ve salatalık dilimleri yoğun peynir aromasını dengeleyerek damakta ferahlatıcı bir kontrast yaratır",
+    "Pratik, hızlı ve doyurucu yapısıyla güne başlangıç için ya da ara öğünde tercih edilen bir klasiktir"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "200 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

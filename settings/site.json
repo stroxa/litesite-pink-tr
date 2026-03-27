@@ -1,31 +1,30 @@
 {
-  "domain": "https://durumcu.com",
-  "cachePrefix": "durumcu",
+  "domain": "https://tostcu.com",
+  "cachePrefix": "tostcu",
   "lang": "tr",
   "langSwitch": [
-    { "label": "TR", "url": "https://durumcu.com", "lang": "tr" }
+    { "label": "TR", "url": "https://tostcu.com", "lang": "tr" }
   ],
   "rootPages": ["index", "404"],
   "pagesDir": "pages",
   "productsDir": "products",
   "isCategoryCollapsable": true,
   "productSections": [
-    { "key": "donerler",   "label": "Dönerler"   },
-    { "key": "izgaralar",  "label": "Izgaralar"  },
-    { "key": "tantuniler", "label": "Tantuniler" },
-    { "key": "icecekler",  "label": "İçecekler"  }
+    { "key": "tostlar",     "label": "Tostlar"     },
+    { "key": "yan-urunler", "label": "Yan Ürünler" },
+    { "key": "icecekler",   "label": "İçecekler"   }
   ],
 
   "offlineWarning": "İnternet'e erişilemiyor, lütfen bağlantınızı kontrol ediniz.",
   "taxIncluded": "KDV Dahil",
   "basketWarning": "Ürünlerinizi sepete ekledikten sonra,<br/>'WhatsApp'tan Siparişini İlet' butonuna tıklayarak<br/>siparişinizi ve adres bilgilerinizi tarafımıza iletebilir,<br/>alışverişinizi kolayca tamamlayabilirsiniz.",
-  "whatsAppWarning": "WhatsApp kullanmıyorsanız,<br/>sipariş ve sorularınız için bize siparis@durumcu.com adresimizden ulaşabilirsiniz.",
+  "whatsAppWarning": "WhatsApp kullanmıyorsanız,<br/>sipariş ve sorularınız için bize siparis@tostcu.com adresimizden ulaşabilirsiniz.",
   "shippingWarning": "Yakın çevredeki siparişlerde teslimat ücretsizdir.",
 
   "headerHero": {
     "img": "hero-header.webp",
     "text": [
-      "Geleneksel döner tantuni ve dürüm lezzetleri",
+      "El yapımı tostlar ve çıtır lezzetler",
       ""
     ]
   },

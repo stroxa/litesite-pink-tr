@@ -1,0 +1,23 @@
+{
+  "id": "y5",
+  "name": "Cajun Çıtır Tavuk",
+  "url": "cajun-citir-tavuk",
+  "images": ["cajun-citir-tavuk.webp"],
+  "price": 319,
+  "weight": { "value": 220, "unit": "g" },
+  "category": { "name": "Yan Ürünler", "url": "yan-urunler" },
+  "shortDesc": "Cajun baharatları ile hazırlanan çıtır tavuk parçaları sunulur. Dışı çıtır içi sulu tavuk, baharatlı ve lezzetli bir deneyim yaşatır. Cajun'un karakteristik acılı ve aromatik tadını yansıtır.",
+  "metaDesc": "Cajun baharatları ile hazırlanan çıtır tavuk parçaları sunulur. Dışı çıtır içi sulu tavuk, baharatlı ve lezzetli bir deneyim yaşatır. Cajun'un karakteristik acı",
+  "keywords": "cajun tavuk, baharatlı tavuk, çıtır tavuk, pane tavuk, tavuk atıştırmalık",
+  "longDesc": [
+    "Taze tavuk parçaları Cajun baharat karışımına yatırılarak marine işlemi gerçekleştirilir; bu süreç baharatların et içine işlemesini ve pişirme sırasında daha derin aroma salmasını sağlar",
+    "Baharat kaplanmış tavuk parçaları un ve galeta unu karışımından oluşan pane ile sarılır; çift katlı kaplama yüksek ısıda çıtır bir kabuk oluşturur",
+    "Kızgın yağın yüksek ısısı pane kabuğunu hızlıca sertleştirerek altında kalan tavuğun kendi suyunu hapsetmesini sağlar; bu sayede dışı çıtır içi sulu doku elde edilir",
+    "Cajun karışımının kırmızı biber ve sarımsak baharatları kızarma sürecinde karamelize olarak hem rengi derinleştirir hem de aromatik karmaşıklığı güçlendirir",
+    "Hafif yakıcı ve egzotik baharat profiliyle sıradan çıtır tavuğun ötesine geçen bu ürün; farklı deneyim arayanların tercihi olan çıtır bir yan üründür"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "220 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

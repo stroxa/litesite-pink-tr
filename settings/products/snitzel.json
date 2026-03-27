@@ -1,0 +1,23 @@
+{
+  "id": "y4",
+  "name": "Şnitzel",
+  "url": "snitzel",
+  "images": ["snitzel.webp"],
+  "price": 265,
+  "weight": { "value": 250, "unit": "g" },
+  "category": { "name": "Yan Ürünler", "url": "yan-urunler" },
+  "shortDesc": "Klasik Avrupa mutfağının sevilen lezzeti şnitzel, ince dövülmüş tavuk bonfileden hazırlanır. Pane ile kaplanarak altın sarısı çıtır kızartılır.Atıştırmalık ve yan ürün olarak uygundur.",
+  "metaDesc": "Klasik Avrupa mutfağının sevilen lezzeti şnitzel, ince dövülmüş tavuk bonfileden hazırlanır. Pane ile kaplanarak altın sarısı çıtır kızartılır.Atıştırmalık ve y",
+  "keywords": "şnitzel, tavuk şnitzel, pane tavuk, çıtır tavuk, patatesli şnitzel",
+  "longDesc": [
+    "Taze tavuk bonfile ince ve eşit kalınlıkta dövülür; bu işlem hem pişme süresini kısaltır hem de her noktanın eşit ısı almasını garantiler",
+    "İnce kıyılmış galeta unu ile kaplanarak nefis bir pane kabuğu oluşturulur; Viyana mutfağından gelen bu teknik şnitzeli tanımlayan çıtır dokuyu yaratır",
+    "Yüksek ısıda kızgın yağa alınan şnitzel pane kabuğunun altın sarısına dönmesiyle birlikte içindeki tavuğun da tam kıvamına geldiğini işaret eder",
+    "Fazla yağı kâğıt havluyla süzdürülen şnitzel hafif ama doyurucu yapısıyla porsiyon dengesini korur",
+    "Avrupa mutfağının sevilen klasiği olan şnitzel; tavuğun doğal lezzetini pane kabuğunun çıtırlığıyla buluşturarak her yaştan sofraya hitap eder"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "250 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

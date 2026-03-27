@@ -11,7 +11,7 @@ details > summary {
   display: flex;
   align-items: center;
   padding: 1rem 1.25rem;
-  background: #c8e4f5;
+  background: #e0e0e0;
   border-bottom: 2px solid var(--border-dark);
   border-radius: var(--r-md) var(--r-md) 0 0;
   font-size: 1.15rem;
@@ -37,7 +37,7 @@ details > summary::before {
   color: var(--accent);
   background: var(--bg);
   border: 1.5px solid var(--border);
-  border-radius: 50%;
+  border-radius: 0;
   flex-shrink: 0;
 }
 

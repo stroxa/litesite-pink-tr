@@ -1,0 +1,23 @@
+{
+  "id": "y3",
+  "name": "Tavuk Nugget (8 Adet)",
+  "url": "tavuk-nugget-8-adet",
+  "images": ["tavuk-nugget-8-adet.webp"],
+  "price": 185,
+  "weight": { "value": 160, "unit": "g" },
+  "category": { "name": "Yan Ürünler", "url": "yan-urunler" },
+  "shortDesc": "Çıtır pane kaplamalı 8 adet tavuk nugget. Altın sarısı renginde kızartılarak dışı çıtır içi yumuşak sunulur. Özellikle çocukların favorisi olan lezzetli bir atıştırmalık.",
+  "metaDesc": "Çıtır pane kaplamalı 8 adet tavuk nugget. Altın sarısı renginde kızartılarak dışı çıtır içi yumuşak sunulur. Özellikle çocukların favorisi olan lezzetli bir atı",
+  "keywords": "tavuk nugget, chicken nugget, çıtır tavuk, pane tavuk, atıştırmalık",
+  "longDesc": [
+    "Tavuk göğsü parçaları tek ısırımlık boyuta getirilir; bu boyut hem pane kaplamanın optimum çıtırlığını hem de iç kısmın tam pişmesini garanti eder",
+    "Un ve galeta unu karışımından oluşan pane yüksek ısıyla temas ettiğinde hızlıca sertleşerek altındaki tavuğun suyunu hapseden bir kabuk oluşturur",
+    "Kızgın yağda daldırma yöntemiyle pişen nuggetlar; dışı altın sarısı çıtır, içi sulu ve yumuşak olacak biçimde kontrollü sürede hazırlanır",
+    "Fazla yağı süzdürülen 8 adet nugget sıcaklığını koruyarak servis edilir; bu ısı hem pane dokusunu hem de tavuk aromasını canlı tutar",
+    "Küçük ve kolay tüketilebilir yapısıyla her yaştan misafirin tercih ettiği, hem çocuk hem yetişkin sofrasına uyum sağlayan bir yan üründür"
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "160 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}
